@@ -1,2 +1,2 @@
-Input devices- Mouse,keyboard,microphone __
+__Input devices- Mouse,keyboard,microphone__
 Output devices- monitors, printers, speakers, headphones, projectors 
